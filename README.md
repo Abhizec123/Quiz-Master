@@ -4,8 +4,8 @@ Ultimate tool for testing your knowledge and boosting your brainpower!
 # ABOUT
 
 ```
-A Mini Quiz Project in C where students can give a Short Quiz Exam and Fairness of the Quiz is maintained by
-getting Random Questions by each students. Additonally, students can also view their Friend's score.
+A Mini Quiz Project in C where students can give a Short Quiz Exam and Fairness of the Quiz is maintained 
+by getting Random Questions by each students. Additonally, students can also view their Friend's score.
 ```
 
 # HOW TO RUN?
