@@ -14,5 +14,6 @@ getting Random Questions by each students. Additonally, students can also view t
 1. Download the Zip Folder
 2. Extract it to your preferred location
 3. Open cmd and go to specific path of the Extracted Folder (For Ex-D:\PROJECTS\Quiz - C)
-4. Type the Command "Quiz Questions.DAT" and it's done
+4. Type the Command "Quiz Questions.DAT" and hit enter
+5. That's it! 
 ```
